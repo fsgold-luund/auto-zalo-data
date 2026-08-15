@@ -1,24 +1,5 @@
 [
   {
-    "id": "msul6i4q-msukugykvmjsj",
-    "batchId": "msul6i4q",
-    "customerId": "msukugykvmjsj",
-    "customerName": "Nguyễn Thị Nhâm",
-    "phone": "0372800830",
-    "message": "Kính gửi khách hàng Nguyễn Thị Nhâm, Quý khách hàng hiện tại đã đến hạn thanh toán cho Hợp đồng DA - Diamond Hill Thái Nguyên; số tiền cần thanh toán 0 VND; cần thanh toán trước ngày chua co. Vui lòng liên hệ để được hỗ trợ!",
-    "status": "simulated",
-    "detail": "Chua cau hinh Zalo OA - tin nhan duoc ghi log o che do mo phong (chua gui that).",
-    "sentAt": "2026-08-15T16:24:36.252Z"
-  },
-  {
-    "id": "msul6i4q-msud4kbkbc1z8",
-    "batchId": "msul6i4q",
-    "customerId": "msud4kbkbc1z8",
-    "customerName": "Nguyễn Đức Lưu",
-    "phone": "0948578881",
-    "message": "Kính gửi khách hàng Nguyễn Đức Lưu, Quý khách hàng hiện tại đã đến hạn thanh toán cho Hợp đồng DA - Diamond Hill Thái Nguyên; số tiền cần thanh toán 0 VND; cần thanh toán trước ngày chua co. Vui lòng liên hệ để được hỗ trợ!",
-    "status": "simulated",
-    "detail": "Chua cau hinh Zalo OA - tin nhan duoc ghi log o che do mo phong (chua gui that).",
-    "sentAt": "2026-08-15T16:24:36.252Z"
+    
   }
 ]
